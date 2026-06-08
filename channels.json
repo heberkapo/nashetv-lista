@@ -103,7 +103,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://45.5.151.147:8000/play/a00f/index.m3u8",
+          "iframe": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
