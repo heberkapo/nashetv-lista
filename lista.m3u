@@ -16,7 +16,7 @@ http://45.5.151.147:8000/play/a00f/index.m3u8
 http://45.5.151.147:8000/play/a007/index.m3u8
 
 #EXTINF:-1 tvg-name="TN" tvg-logo="https://bestleague.world/img/tn.png" group-title="noticias",TN
-http://45.5.151.147:8000/play/a00b/index.m3u8
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
 #EXTINF:-1 tvg-name="Cronica TV" tvg-logo="https://bestleague.world/img/cronica.png" group-title="noticias",Cronica TV
 http://45.5.151.147:8000/play/a009/index.m3u8
