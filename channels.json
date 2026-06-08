@@ -223,7 +223,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://45.5.151.147:8000/play/a006/index.m3u8",
+          "iframe": "http://181.13.252.102:8000/play/a01o/index.m3u8?hls",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -283,7 +283,8 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/c26.playlist.m3u8",
+          "iframe": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -349,7 +350,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-16.playlist.m3u8",
+          "iframe": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780959488/ei/oPQmat2hJOOV-LAPm7yqqA4/ip/200.0.215.124/id/mCvoIRBgMU0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-j5c5nx-x1x6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ARmQxEXnLQFHI9P6NGcJzdPdFYvxH5Q0UwMw3KyHPZeL4WKw5a33nHTbpee0iHIpCs8XK4VaTXbzPWDT/spc/SQ-umpU1Zjtm-hpq7PPy3TQWI3WHlQaqVA3VPxXM1jJtcTX9bw/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/1280000/met/1780937888,/mh/Ok/mm/44/mn/sn-j5c5nx-x1x6/ms/lva/mv/m/mvi/7/pl/24/rmhost/rr6---sn-j5c5nx-x1x6.googlevideo.com/rms/lva,lva/smhost/rr3---sn-j5c5nx-x1xe7.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1780937555/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgJRVeESbYc3iiXIs-U6CCRqk0cqKm9LRuTducCXNaSVkCIQDfvgk6taC4MaX6SWJXW4LXeWpBAOdJzmBL5Xxx6SGuOw%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms,smhost/lsig/APaTxxMwRAIgWkhs2xI96fNGHDGslzNB4V5wcUrcqW7wdfNBlpxq8LACIFbA9XOPs2YvEJnVRG3KpqSM4YM__c3s20d60HafGXvf/playlist/index.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -1053,7 +1054,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-90.playlist.m3u8",
+          "iframe": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
