@@ -14,6 +14,19 @@
       "drmKey": null
     },
     {
+      "name": "María Visión",
+      "logo": "https://play.google.com/store/apps/details?id=com.fcbh.dbp.s_B9BHXD&hl=es_US",
+      "streamUrl": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8",
+      "streamType": "hls",
+      "category": "catolico",
+      "show": true,
+      "options": [],
+      "sources": [],
+      "headers": null,
+      "drmKeyId": null,
+      "drmKey": null
+    {
+    },
       "name": "TV Publica",
       "logo": "https://bestleague.world/img/tvpublica.webp",
       "category": "noticias",
