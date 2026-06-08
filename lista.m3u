@@ -124,7 +124,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fo
 http://45.5.151.147:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-name="TyC Sports" tvg-logo="https://bestleague.world/img/tyc.webp" group-title="deportes",TyC Sports
-http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-90.playlist.m3u8
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ESPN 1" tvg-logo="https://bestleague.world/img/espn.webp" group-title="deportes",ESPN 1
 http://45.5.151.147:8000/play/a00i/index.m3u8
