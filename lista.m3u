@@ -22,7 +22,7 @@ https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 http://45.5.151.147:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-name="A24" tvg-logo="https://bestleague.world/img/a24.webp" group-title="noticias",A24
-http://45.5.151.147:8000/play/a006/index.m3u8
+http://181.13.252.102:8000/play/a01o/index.m3u8?hls
 
 #EXTINF:-1 tvg-name="LN+" tvg-logo="https://bestleague.world/img/ln.webp" group-title="noticias",LN+
 http://45.5.151.147:8000/play/a00a/index.m3u8
