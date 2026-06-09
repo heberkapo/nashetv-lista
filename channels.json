@@ -125,7 +125,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
+          "iframe": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
