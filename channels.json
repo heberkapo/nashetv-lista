@@ -101,35 +101,26 @@
         }
       ]
     },
-    {
-      "name": "El Trece",
-      "logo": "https://bestleague.world/img/eltrece.webp",
+    { "name": "El Trece",
+      "logo": "https://bestleague.world/img/eltrece.webp", 
       "category": "noticias",
       "show": true,
-      "streamUrl": "https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v2a1/mono.m3u8",
+      "streamUrl": null,
       "streamType": "hls",
-      "headers": {
-      "Referer": "https://api.vodgc.net/",
-      "Origin": "https://api.vodgc.net",
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 Chrome/137.0.0.0 Mobile Safari/537.36"
-    },
+      "headers": null,
       "drmKeyId": null,
       "drmKey": null,
       "sources": [],
-      "options": [
+      "options": [ 
         {
           "name": "Reproductor 1",
           "iframe": "https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v2a1/mono.m3u8",
           "streamType": "hls",
-          "headers": {
-          "Referer": "https://api.vodgc.net/",
-          "Origin": "https://api.vodgc.net",
-          "User-Agent": "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 Chrome/137.0.0.0 Mobile Safari/537.36"
-        },
+          "headers": null,
           "drmKeyId": null,
           "drmKey": null
         }
-      ]
+      ] 
     },
     {
         "name": "C5N",
