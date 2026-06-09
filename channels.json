@@ -3,15 +3,15 @@
     {
       "name": "America TV",
       "logo": "https://bestleague.world/img/america.webp",
-      "streamUrl": "https://full-online.xyz/cvatt.html?get=QXJ0ZWFySEQ&amp",
-      "streamType": "iframe",
+      "streamUrl": null,
+      "streamType": "hls",
       "category": "noticias",
       "show": true,
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": null,
-          "streamType": "hls",
+          "iframe": "https://full-online.xyz/cvatt.html?get=QXJ0ZWFySEQ&amp",
+          "streamType": "iframe",
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
