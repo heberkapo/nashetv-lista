@@ -116,7 +116,7 @@
         {
           "name": "Reproductor 1",
           "iframe": "https://api.vodgc.net/player/v2/embed/playerId/PRZ9KU1515679151/contentId/1427089",
-          "streamType": "iframe",
+          "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
