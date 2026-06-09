@@ -10,7 +10,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
+          "iframe": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8?hdnts=exp%3D1781041877%7Ehmac%3D5e949e9551fb88128b5abf5d0bd88228689e6dd2778afe5910b7e799c8efb735&idasset=1694255",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
