@@ -135,17 +135,33 @@
     },
     {
       "name": "El Trece",
-      "logo": "https://files.catbox.moe/finwuj.png",
-      "category": "aire",
+      "logo": "https://bestleague.world/img/eltrece.webp",
+      "category": "noticias",
       "show": true,
-      "streamUrl": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
+      "streamUrl": null,
       "streamType": "hls",
-      "headers": {
-      "Referer": "https://vodgc.net",
-      "User-Agent": "Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36"
-    },
+      "headers": null,
       "drmKeyId": null,
-      "drmKey": null
+      "drmKey": null,
+      "sources": [],
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        },
+        {
+          "name": "Reproductor 2",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/eltrece.playlist.m3u8",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
     },
     {
       "name": "C5N",
@@ -687,7 +703,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8",
+          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/ciudadmagazine.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
