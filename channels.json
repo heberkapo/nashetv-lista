@@ -110,16 +110,16 @@
       "logo": "https://bestleague.world/img/eltrece.webp", 
       "category": "noticias",
       "show": true,
-      "streamUrl": null,
+      "streamUrl": "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_cenc/WarnerHD.mpd",
       "streamType": "hls",
       "headers": null,
       "drmKeyId": null,
       "drmKey": null,
       "sources": [],
-      "options": [ 
+      "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_cenc/WarnerHD.mpd",
+          //"iframe": "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_cenc/WarnerHD.mpd",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
