@@ -3,8 +3,8 @@
     {
       "name": "America TV",
       "logo": "https://bestleague.world/img/america.webp",
-      "streamUrl": "https://cdn02.gigared.com.ar/live/eds/AmericaTV/sa_live_dash/AmericaTV-mp4a_208000_spa=20000-p=360904906600000-3609547018200000.mp4",
-      "streamType": "hls",
+      "streamUrl": "https://pelisjuanita.com/tv/hzplayer.php?id=QU1FUklDQQ==&opc=3",
+      "streamType": "iframe",
       "category": "noticias",
       "show": true,
       "options": [],
