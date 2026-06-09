@@ -115,8 +115,8 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "https://www.eltrecetv.com.ar/",
-          "streamType": "hls",
+          "iframe": "eltrecetv.com.ar/vivo/",
+          "streamType": "iframe",
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
