@@ -106,9 +106,13 @@
       "logo": "https://bestleague.world/img/eltrece.webp",
       "category": "noticias",
       "show": true,
-      "streamUrl": null,
+      "streamUrl": "https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v2a1/mono.m3u8",
       "streamType": "hls",
-      "headers": null,
+      "headers": {
+      "Referer": "https://api.vodgc.net/",
+      "Origin": "https://api.vodgc.net",
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 Chrome/137.0.0.0 Mobile Safari/537.36"
+    },
       "drmKeyId": null,
       "drmKey": null,
       "sources": [],
@@ -117,24 +121,28 @@
           "name": "Reproductor 1",
           "iframe": "https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v2a1/mono.m3u8",
           "streamType": "hls",
-          "headers": null,
+          "headers": {
+          "Referer": "https://api.vodgc.net/",
+          "Origin": "https://api.vodgc.net",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 Chrome/137.0.0.0 Mobile Safari/537.36"
+        },
           "drmKeyId": null,
           "drmKey": null
         }
       ]
     },
-    {
-      "name": "C5N",
-      "logo": "https://bestleague.world/img/c5n.webp",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
+      {
+        "name": "C5N",
+        "logo": "https://bestleague.world/img/c5n.webp",
+        "category": "noticias",
+        "show": true,
+        "streamUrl": null,
+        "streamType": "hls",
+        "headers": null,
+        "drmKeyId": null,
+        "drmKey": null,
+        "sources": [],
+        "options": [
         {
           "name": "Reproductor 1",
           "iframe": "http://45.5.151.147:8000/play/a007/index.m3u8",
