@@ -126,7 +126,7 @@
         {
           "name": "Reproductor 1",
           "iframe": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
-          "streamType": "hls",
+          "streamType": "null",
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
