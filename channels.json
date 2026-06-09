@@ -76,22 +76,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/tvpublica.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 3",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-11.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -110,22 +94,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://45.5.151.147:8000/play/a00g/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/telefe.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 3",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-10.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -174,14 +142,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/c5n.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -200,14 +160,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/tn.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -234,14 +186,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/CronicaTv.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -260,14 +204,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "http://181.13.252.102:8000/play/a01o/index.m3u8?hls",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/a24.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -294,20 +230,12 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/lntv.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
     {
       "name": "Canal 26",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CANAL26.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -320,50 +248,6 @@
         {
           "name": "Reproductor 1",
           "iframe": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "CNN Español",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CNN_ESPAÑOL.png",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/CNNesp.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Canal A",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CANAL_A.png",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-15.playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -390,14 +274,6 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://45.5.151.147:8000/play/a00e/index.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
@@ -420,20 +296,12 @@
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
-        },
-        {
-          "name": "Reproductor 2",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/nuevelitoral.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
         }
       ]
     },
     {
-      "name": "Somos Santa Fe",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/SOMOS_STAFE.png",
+      "name": "5TV",
+      "logo": "https://imgur.com/mSn7ACs",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -445,7 +313,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-12.playlist.m3u8",
+          "iframe": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -454,34 +322,12 @@
       ]
     },
     {
-      "name": "Santa Fe Canal",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/RTS_STAFE.png",
-      "category": "noticias",
-      "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null,
-      "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-13.playlist.m3u8",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ]
-    },
-    {
-      "name": "Rural",
+      "name": "Canal Rural",
       "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/CANAL_RURAL.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
-      "streamType": "hls",
+      "streamType": "iframe",
       "headers": null,
       "drmKeyId": null,
       "drmKey": null,
@@ -489,8 +335,8 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/rural.playlist.m3u8",
-          "streamType": "hls",
+          "iframe": "https://www.elrural.com/transmision-en-vivo2/",
+          "streamType": "iframe",
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
