@@ -148,7 +148,7 @@
         {
           "name": "Reproductor 1",
           "iframe": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
-          "streamType": "hls",
+          "streamType": "iframe",
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
@@ -423,7 +423,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-18.playlist.m3u8",
+          "iframe": "https://stream.arcast.live/ahora/ahora/playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
@@ -2595,9 +2595,9 @@
       ]
     },
     {
-      "name": "Evento 1",
-      "logo": "https://angulismotv-dnh.pages.dev/assets/logos/app/EVENTOS1.png",
-      "category": "eventos",
+      "name": "FIFA+",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+      "category": "deportes",
       "show": true,
       "streamUrl": null,
       "streamType": "hls",
@@ -2608,7 +2608,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://201.217.246.42:44310/Live/e35048d37817ddfa725d9d32ceb8c7f3/local-01.playlist.m3u8",
+          "iframe": "https://stream.arcast.live/ahora/ahora/playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
