@@ -542,7 +542,7 @@
       ]
     },
     {
-      "name": "Rapido Y Furiosos: Reto Tokyo",
+      "name": "El Chavo del 8",
       "logo": "https://image.tmdb.org/t/p/w400/psOUuExCGCaPxZhmqtqIE6lVVr6.jpg",
       "category": "peliculas",
       "show": true,
@@ -555,7 +555,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "https://p3.vimeos.zip/hls2/03/00000/lfbbc12hjljj_,n,h,.urlset/master.m3u8?t=Edlya0HANam1075Jpn7XLN8eusowFc_a7iTUT81yA8Y&s=1777772189&e=43200&v=202938587&srv=s10&i=0.0&sp=0&r=e",
+          "iframe": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
