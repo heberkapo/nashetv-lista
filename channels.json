@@ -10,7 +10,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "https://cdn03.gigared.com.ar/live/eds/AmericaTV/sa_live_dash/AmericaTV-avc1_3000000=10000-p=360904906600000-3609558034000000.mp4",
+          "iframe": "rtve.es/ztnr/1694255.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
