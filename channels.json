@@ -106,8 +106,8 @@
       "logo": "https://bestleague.world/img/eltrece.webp",
       "category": "noticias",
       "show": true,
-      "streamUrl": "https://api.vodgc.net/player/v2/embed/playerId/PRZ9KU1515679151/contentId/1427089",
-      "streamType": "iframe",
+      "streamUrl": null,
+      "streamType": "hls",
       "headers": null,
       "drmKeyId": null,
       "drmKey": null,
@@ -115,7 +115,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "",
+          "iframe": "https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v2a1/mono.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
