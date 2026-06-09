@@ -106,7 +106,7 @@
       "logo": "https://bestleague.world/img/eltrece.webp",
       "category": "noticias",
       "show": true,
-      "streamUrl": null,
+      "streamUrl": "https://eltrecetv.com.ar/vivo/",
       "streamType": "hls",
       "headers": null,
       "drmKeyId": null,
