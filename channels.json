@@ -139,7 +139,7 @@
       "category": "noticias",
       "show": true,
       "streamUrl": null,
-      "streamType": "hls",
+      "streamType": "iframe",
       "headers": null,
       "drmKeyId": null,
       "drmKey": null,
