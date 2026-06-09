@@ -10,11 +10,11 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_cenc/WarnerHD.mpd",
+          "iframe": "https://edge-live01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMTk4MTkxIiwic2lwIjoiMTkwLjIyOC4yMC4yIiwicGF0aCI6Ii9saXZlL2M3ZWRzL1dhcm5lckhEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMzVjNDdmMmE5ZjAwMWU5MiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIyNTgiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDIxMCw4Niw4OF19.kidBFNudripykYLqj-pmwMA4gHbUUJiF1ux4vdKXOde5mSYtGs1ZF23Mhm4uaQkLsbzGqUjvamliZ8u_gR-K4Q==/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
           "streamType": "hls",
           "headers": null,
-          "drmKeyId": "5179017f49326d14af0a9ceec831aee6",
-          "drmKey": "09b4a463b029ebc28a288bed2da70a76"
+          "drmKeyId": "",
+          "drmKey": ""
         }
       ]
     },
