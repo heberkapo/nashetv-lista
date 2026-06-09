@@ -98,7 +98,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "http://45.5.151.147:8000/play/a00g/index.m3u8",
+          "iframe": "https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
