@@ -107,7 +107,7 @@
       "category": "noticias",
       "show": true,
       "streamUrl": null,
-      "streamType": "iframe",
+      "streamType": "hls",
       "headers": null,
       "drmKeyId": null,
       "drmKey": null,
@@ -116,7 +116,7 @@
         {
           "name": "Reproductor 1",
           "iframe": "https://www.eltrecetv.com.ar/",
-          "streamType": "iframe",
+          "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
