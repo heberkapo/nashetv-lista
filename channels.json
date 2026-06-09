@@ -119,7 +119,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "https://full-online.xyz/proxy/?url=https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
+          "iframe": "https://full-online.xyz/proxy/?url=https%3A%2F%2Flive-01-02-eltrece.vodgc.net%2Feltrecetv%2Ftracks-v1a1%2Fmono.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": "",
