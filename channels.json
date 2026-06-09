@@ -3,8 +3,8 @@
     {
       "name": "America TV",
       "logo": "https://bestleague.world/img/america.webp",
-      "streamUrl": "https://pelisjuanita.com/tv/hzplayer.php?id=QU1FUklDQQ==&opc=3",
-      "streamType": "iframe",
+      "streamUrl": "https://cdn.pixabay.com/video/2016/09/21/5591-185024671_medium.mp4",
+      "streamType": "hls",
       "category": "noticias",
       "show": true,
       "options": [],
