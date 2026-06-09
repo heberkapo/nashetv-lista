@@ -10,7 +10,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "rtve.es/ztnr/1694255.m3u8",
+          "iframe": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
