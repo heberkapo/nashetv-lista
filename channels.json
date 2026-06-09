@@ -3,15 +3,20 @@
     {
       "name": "America TV",
       "logo": "https://bestleague.world/img/america.webp",
-      "streamUrl": "https://cdn03.gigared.com.ar/live/eds/AmericaTV/sa_live_dash/AmericaTV-avc1_3000000=10000-p=360904906600000-3609558034000000.mp4",
+      "streamUrl": null,
       "streamType": "hls",
       "category": "noticias",
       "show": true,
-      "options": [],
-      "sources": [],
-      "headers": null,
-      "drmKeyId": null,
-      "drmKey": null
+      "options": [
+        {
+          "name": "Reproductor 1",
+          "iframe": "https://cdn03.gigared.com.ar/live/eds/AmericaTV/sa_live_dash/AmericaTV-avc1_3000000=10000-p=360904906600000-3609558034000000.mp4",
+          "streamType": "hls",
+          "headers": null,
+          "drmKeyId": null,
+          "drmKey": null
+        }
+      ]
     },
     {
       "name": "María Visión",
