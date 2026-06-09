@@ -4,7 +4,7 @@
       "name": "America TV",
       "logo": "https://bestleague.world/img/america.webp",
       "streamUrl": "https://full-online.xyz/cvatt.html?get=QXJ0ZWFySEQ&amp",
-      "streamType": "hls",
+      "streamType": "iframe",
       "category": "noticias",
       "show": true,
       "options": [
