@@ -3,7 +3,7 @@
     {
       "name": "America TV",
       "logo": "https://bestleague.world/img/america.webp",
-      "streamUrl": "https://cdn.pixabay.com/video/2016/09/21/5591-185024671_medium.mp4",
+      "streamUrl": "https://cdn03.gigared.com.ar/live/eds/AmericaTV/sa_live_dash/AmericaTV-avc1_3000000=10000-p=360904906600000-3609558034000000.mp4",
       "streamType": "hls",
       "category": "noticias",
       "show": true,
