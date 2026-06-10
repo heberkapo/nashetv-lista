@@ -110,8 +110,8 @@
       "logo": "https://bestleague.world/img/eltrece.webp", 
       "category": "noticias",
       "show": true,
-      "streamUrl": "https://telefullhd.net/canales/el-trece/op2.php",
-      "streamType": "iframe",
+      "streamUrl": null,
+      "streamType": "hls",
       "headers": null,
       "drmKeyId": null,
       "drmKey": null,
@@ -119,8 +119,8 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "",
-          "streamType": "iframe",
+          "iframe": "https://telefullhd.net/html/cvatt2.html?get=QXJ0ZWFySEQ",
+          "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
           "drmKey": null
