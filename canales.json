@@ -1,10 +1,17 @@
 {
   "channels": [
     {
-      "name": "America TV",
-      "logo": "https://bestleague.world/img/america.webp",
+      "name": "Artear HD",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Logo_de_eltrece.svg/1200px-Logo_de_eltrece.svg.png",
       "link": "https://full-online.xyz/cvatt.html?get=QXJ0ZWFySEQ&lang=1",
-      "category": "noticias",
+      "category": "General",
+      "show": true
+    },
+    {
+      "name": "TyC Sports",
+      "logo": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2016/07/04192641/tyc-sports-logo.jpg",
+      "link": "https://full-online.xyz/cvatt.html?get=VHlDU3BvcnQ",
+      "category": "Deportes",
       "show": true
     }
   ]
