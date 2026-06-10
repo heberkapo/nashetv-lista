@@ -2,7 +2,7 @@
   "channels": [
     {
       "name": "America TV",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",
       "streamUrl": null,
       "streamType": "hls",
       "category": "noticias",
@@ -13,8 +13,8 @@
           "iframe": "",
           "streamType": "hls",
           "headers": null,
-          "drmKeyId": "8ea235ce0826408b221c498115a9b62d",
-          "drmKey": "7aa9266ed91ea4510483370029dfcf45"
+          "drmKeyId": null,
+          "drmKey": null
         }
       ]
     },
@@ -338,4 +338,6 @@
         }
       ]
     }
+  ]
+}
   
