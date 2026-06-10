@@ -1,7 +1,7 @@
 {
   "channels": [
     {
-      "name": "America TV1",
+      "name": "America TV",
       "logo": "https://bestleague.world/img/america.webp",
       "streamUrl": null,
       "streamType": "hls",
@@ -106,12 +106,12 @@
         }
       ]
     },
-    { "name": "El Trecee",
+    { "name": "El Trecetvanashe",
       "logo": "https://bestleague.world/img/eltrece.webp", 
       "category": "noticias",
       "show": true,
       "streamUrl": "https://full-online.xyz/cvatt.html?get=QXJ0ZWFySEQ",
-      "streamType": "iframe",
+      "streamType": "jwplayer",
       "headers": null,
       "drmKeyId": null,
       "drmKey": null,
