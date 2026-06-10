@@ -111,7 +111,7 @@
       "category": "noticias",
       "show": true,
       "streamUrl": "https://telefullhd.net/canales/el-trece/op2.php",
-      "streamType": "webview",
+      "streamType": "jwplayer",
       "headers": null,
       "drmKeyId": null,
       "drmKey": null,
