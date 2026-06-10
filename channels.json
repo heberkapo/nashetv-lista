@@ -10,11 +10,11 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "https://cdn02.gigared.com.ar/live/eds/AmericaTV/sa_live_dash/AmericaTV.mpd",
+          "iframe": "https://edge-mix03-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMjY1NTQ4Iiwic2lwIjoiMTkwLjIyOC4yMC4yIiwicGF0aCI6Ii9saXZlL2M3ZWRzL1dhcm5lckhEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZDYxYTA0YjM4ZGU4MWMwNSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMjgiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDIxMCw4Niw4OF19.tawquSV7kY2k6br8bKwd-ommb3e8nB3-WDPoEvKuVFIvSCuwDZkbMu1nRF7jWnofZz3BwtxhzFcsNNeMcYLNGA==/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
           "streamType": "hls",
           "headers": null,
-          "drmKeyId": "",
-          "drmKey": ""
+          "drmKeyId": "8ea235ce0826408b221c498115a9b62d",
+          "drmKey": "7aa9266ed91ea4510483370029dfcf45"
         }
       ]
     },
