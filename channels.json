@@ -106,12 +106,12 @@
         }
       ]
     },
-    { "name": "El Trece2",
+    { "name": "El Trece1",
       "logo": "https://bestleague.world/img/eltrece.webp", 
       "category": "noticias",
       "show": true,
-      "streamUrl": "https://telefullhd.net/canales/el-trece/op2.php",
-      "streamType": "jwplayer",
+      "streamUrl": "zonatv.store/cvatt2.html?get=QXJ0ZWFySEQ",
+      "streamType": "iframe",
       "headers": null,
       "drmKeyId": null,
       "drmKey": null,
