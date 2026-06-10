@@ -23,7 +23,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Maria-vision.jpg",
       "category": "noticias",
       "show": true,
-      "streamUrl": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8",
+      "streamUrl": null,
       "streamType": "hls",
       "headers": null,
       "drmKeyId": null,
@@ -64,7 +64,7 @@
     },
     {
       "name": "TV Publica",
-      "logo": "",
+      "logo": "https://bestleague.world/img/tvpublica.webp",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -85,8 +85,8 @@
       ]
     },
     {
-      "name": "Telefeg",
-      "logo": "",
+      "name": "Telefe",
+      "logo": "https://bestleague.world/img/telefe.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -107,11 +107,11 @@
       ]
     },
     { "name": "El Trecee",
-      "logo": "", 
+      "logo": "https://bestleague.world/img/eltrece.webp", 
       "category": "noticias",
       "show": true,
       "streamUrl": "https://full-online.xyz/cvatt.html?get=QXJ0ZWFySEQ",
-      "streamType": "jwplayer",
+      "streamType": "iframe",
       "headers": null,
       "drmKeyId": null,
       "drmKey": null,
@@ -120,7 +120,7 @@
     },
     {
         "name": "C5N",
-        "logo": "",
+        "logo": "https://bestleague.world/img/c5n.webp",
         "category": "noticias",
         "show": true,
         "streamUrl": null,
@@ -142,7 +142,7 @@
     },
     {
       "name": "TN",
-      "logo": "",
+      "logo": "https://bestleague.world/img/tn.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -164,7 +164,7 @@
     },
     {
       "name": "Cronica TV",
-      "logo": "",
+      "logo": "https://bestleague.world/img/cronica.png",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -186,7 +186,7 @@
     },
     {
       "name": "A24",
-      "logo": "",
+      "logo": "https://bestleague.world/img/a24.webp",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -208,7 +208,7 @@
     },
     {
       "name": "LN+",
-      "logo": "",
+      "logo": "https://bestleague.world/img/ln.webp",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -252,7 +252,7 @@
     },
     {
       "name": "El Nueve",
-      "logo": "",
+      "logo": "https://bestleague.world/img/nueve.webp",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
@@ -274,7 +274,7 @@
     },
     {
       "name": "Nueve Litoral",
-      "logo": "",
+      "logo": "https://bestleague.world/img/nueve.webp",
       "category": "noticias",
       "show": true,
       "streamUrl": null,
