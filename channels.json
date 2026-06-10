@@ -110,22 +110,13 @@
       "logo": "https://bestleague.world/img/eltrece.webp", 
       "category": "noticias",
       "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
+      "streamUrl": "https://telefullhd.net/html/cvatt2.html?get=QXJ0ZWFySEQ",
+      "streamType": "webview",
       "headers": null,
       "drmKeyId": null,
       "drmKey": null,
       "sources": [],
-      "options": [
-        {
-          "name": "Reproductor 1",
-          "iframe": "https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMjE0MjM2Iiwic2lwIjoiODQuMjUyLjExNC4yIiwicGF0aCI6Ii9saXZlL2M2ZWRzL1ROVF9TcG9ydHNfSEQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJmNWZiNWY5ODcwZmU1MDVjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjU4Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.DXEUeipXX183kyK82iOlZSTD2BC0j8AUSGIdfVdnl_U2KBVsj3jn0pExGffeJETzIqP7iqTOLrqMnVrS8F9e4Q==/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
-          "streamType": "hls",
-          "headers": null,
-          "drmKeyId": null,
-          "drmKey": null
-        }
-      ] 
+      "options": [] 
     },
     {
         "name": "C5N",
