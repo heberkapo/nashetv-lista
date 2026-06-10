@@ -85,7 +85,7 @@
       ]
     },
     {
-      "name": "Telefeg",
+      "name": "Telefe",
       "logo": "https://bestleague.world/img/telefe.png",
       "category": "noticias",
       "show": true,
@@ -106,12 +106,12 @@
         }
       ]
     },
-    { "name": "El Trecetvanashe",
+    { "name": "El Trece",
       "logo": "https://bestleague.world/img/eltrece.webp", 
       "category": "noticias",
       "show": true,
       "streamUrl": "https://full-online.xyz/cvatt.html?get=QXJ0ZWFySEQ",
-      "streamType": "jwplayer",
+      "streamType": "webview",
       "headers": null,
       "drmKeyId": null,
       "drmKey": null,
