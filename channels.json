@@ -110,8 +110,8 @@
       "logo": "https://bestleague.world/img/eltrece.webp", 
       "category": "noticias",
       "show": true,
-      "streamUrl": null,
-      "streamType": "hls",
+      "streamUrl": "https://telefullhd.net/html/cvatt2.html?get=QXJ0ZWFySEQ",
+      "streamType": "iframe",
       "headers": null,
       "drmKeyId": null,
       "drmKey": null,
@@ -119,7 +119,7 @@
       "options": [
         {
           "name": "Reproductor 1",
-          "iframe": "https://zonatv.store/cvatt55.html?get=QXJ0ZWFySEQ&start=true",
+          "iframe": "",
           "streamType": "hls",
           "headers": null,
           "drmKeyId": null,
